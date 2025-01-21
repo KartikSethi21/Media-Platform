@@ -45,5 +45,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://media-platform-backend.onrender.com"
+  "proxy": "media-platform-backend.onrender.com"
 }
